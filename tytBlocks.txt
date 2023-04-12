@@ -395,3 +395,6 @@ objectstorage.us-chicago-1.oraclecloud.com
 wavebrowserbase.com
 wavebrowser.co
 mywavehome.net
+beautiful.ai
+detnb.ru
+responsibilitytell.co.in
