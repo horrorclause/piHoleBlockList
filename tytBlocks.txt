@@ -2178,3 +2178,4 @@ approotserverless.nyc3.cdn.digitaloceanspaces.com
 cqkikfffmcqbl.online
 q08c2.6yxxxsjh68.workers.dev
 6yxxxsjh68.workers.dev
+waiver.fr
