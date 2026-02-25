@@ -2372,3 +2372,4 @@ fordinc.sbs
 moltbot.you
 clawbot.ai
 clawdbot.you
+kelvrix.cfd
