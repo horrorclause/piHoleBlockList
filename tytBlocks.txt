@@ -2375,3 +2375,5 @@ clawdbot.you
 kelvrix.cfd
 filen.io
 Turbobit.net
+counter.yadro.ru
+yadro.ru
