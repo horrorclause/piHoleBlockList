@@ -2493,3 +2493,4 @@ auth-code-check.info
 marjdl.pro
 mekasa.pro
 duatv.vu
+javca.vu
