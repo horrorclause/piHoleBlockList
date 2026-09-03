@@ -2496,3 +2496,5 @@ duatv.vu
 javca.vu
 mnl.ac
 manlivep.org
+jupav.vu/signin/google
+jupav.vu
