@@ -2501,3 +2501,5 @@ jupav.vu
 3brasseurs.com.br
 telegra.ph
 testingcf.jsdelivr.net
+verification.io-vault.icu
+io-vault.icu
