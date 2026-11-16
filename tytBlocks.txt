@@ -2509,3 +2509,5 @@ eindgren.lol
 c.doghodl.com
 config-rg7.pages.dev 
 doghodl.com
+fastcdn.icu
+wowcat4shop.com
